@@ -10,13 +10,13 @@
 </div>
 
 ## 🌐 Socials:
-<a href="https://www.instagram.com/mr.rajat_1804/" target="_blank">
+<a href="https://www.instagram.com/_rajat1804/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/rajat-desai-265242347/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/>
 </a>
-<a href="mailto:rajatdesai.jgd@gmail.com">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=rajatdesai.jgd@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/>
 </a>
 
